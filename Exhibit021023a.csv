@@ -1,7 +1,7 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-ExhibitDemo.01,https://github.com/treybach/atv/raw/main/ExhibitDemo.01.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-ExhibitDemo.02,https://github.com/treybach/atv/raw/main/ExhibitDemo.02.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-ExhibitDemo.03,https://github.com/treybach/atv/raw/main/ExhibitDemo.03.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-ExhibitDemo.04,https://github.com/treybach/atv/raw/main/ExhibitDemo.04.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-ExhibitDemo.05,https://github.com/treybach/atv/raw/main/ExhibitDemo.05.png,0:00:11,1:00:01,1/1/18 0:01,12/31/30 23:60,yes
-ExhibitDemo.06,https://github.com/treybach/atv/raw/main/ExhibitDemo.06.png,0:00:12,1:00:02,1/1/18 0:02,12/31/30 23:61,yes
+ExhibitDemo.01,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.01.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+ExhibitDemo.02,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.02.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+ExhibitDemo.03,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.03.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+ExhibitDemo.04,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.04.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+ExhibitDemo.05,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.05.png,0:00:11,1:00:01,1/1/18 0:01,12/31/30 23:60,yes
+ExhibitDemo.06,https://raw.githubusercontent.com/treybach/atv/main/ExhibitDemo.06.png,0:00:12,1:00:02,1/1/18 0:02,12/31/30 23:61,yes
